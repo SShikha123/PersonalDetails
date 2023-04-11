@@ -1,0 +1,11 @@
+.detaillist{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px 90px 20px 90px;
+    
+}
